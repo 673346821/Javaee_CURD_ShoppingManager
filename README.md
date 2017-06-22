@@ -15,3 +15,7 @@
 
 搜索：
 ![](https://github.com/673346821/Javaee_CURD_ShoppingManager/blob/master/pics/search_product.png)
+
+
+分页：
+![](https://github.com/673346821/Javaee_CURD_ShoppingManager/blob/master/pics/pagebean.png)
